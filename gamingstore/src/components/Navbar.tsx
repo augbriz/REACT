@@ -6,7 +6,7 @@ export default function Navbar() {
       <nav className="container mx-auto flex items-center gap-6 p-4">
         <span className="text-2xl font-bold text-purple-400 flex items-center gap-2">
           {/* Emoji modo placeholder → luego lo cambiamos por un ícono SVG */}
-          🎮 <span>GameHub</span>
+          🎮 <span>GameStore</span>
         </span>
 
         <NavLink to="/" className="hover:text-purple-300">
